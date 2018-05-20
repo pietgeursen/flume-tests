@@ -1,0 +1,2 @@
+sum was:  499999500000
+time to reduce: 2956.160ms

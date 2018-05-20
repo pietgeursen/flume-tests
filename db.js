@@ -3,7 +3,7 @@ var Flume = require('flumedb')
 var OffsetLog = require('flumelog-offset')
 var codec = require('flumecodec')
 
-var size = 100E3
+var size = 1E6
 var valuesToWrite = new Array(size)
 
 for (var i = 0; i < size; i++) {
